@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # gphotos-upload, forked
 __Original gphotos-upload Readme is further down below. New features of fork are listed here__
 
@@ -87,6 +88,9 @@ optional arguments:
 # gphotos-upload, original
 __From: https://github.com/eshmu/gphotos-upload.git__
 
+=======
+# gphotos-upload - forked
+>>>>>>> 8d131e006ad0ff95af273c704d86c455f86271c6
 Simple but flexible script to upload photos to Google Photos. Useful if you have photos in a directory structure that you want to reflect as Google Photos albums.
 
 ## Usage 
